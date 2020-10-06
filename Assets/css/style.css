@@ -1,0 +1,23 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+.image-logo-nav {
+  width: 132px;
+  height: 53px;
+}
+.bgcolor-nav-foot {
+  background-color: #e83e8c;
+}
+header {
+  color: #707070;
+}
+.icon-section {
+  color: white;
+}
+.margin-right-aw {
+  margin-right: 20px;
+}
+.image-logo-footer {
+  width: 53.32px;
+  height: 100.45px;
+}
